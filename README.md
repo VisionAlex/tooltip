@@ -1,4 +1,4 @@
-# TypeScript & Styled Components Next.js Tooltip exampole
+# Tooltip build with TypeScript, Styled Components and  Nextjs.
 
-This is a really simple project of a Tooltip in  a Next.js with TypeScript and Styled Components project.
+This is a really simple example of a Tooltip in  a Next.js with TypeScript and Styled Components project.
 
